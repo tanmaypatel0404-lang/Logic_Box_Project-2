@@ -332,10 +332,7 @@ For example:
 
 
 
-Uploading Proj-2(Logic_box).mp4…
-
-
-
+https://github.com/user-attachments/assets/d5cc971b-d72e-4ddd-876c-7d873ca59ea4
 
 
 ## 👨‍💻 Author
