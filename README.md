@@ -331,7 +331,10 @@ For example:
 ## ▶️ Video Demo
 
 
-Uploading Proj-2(Star-Pattern_&_Number-Analyser).mp4…
+
+Uploading Proj-2(Logic_box).mp4…
+
+
 
 
 
